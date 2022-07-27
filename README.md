@@ -1,3 +1,3 @@
 # README
 
-Complete Ruby on Rails Developer
+Complete Ruby on Rails Developer by Trey Gonzalez
